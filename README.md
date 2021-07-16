@@ -1,3 +1,4 @@
+
 # voyage
 
 A new Flutter project.
@@ -5,6 +6,10 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+
+The final version of project is now created and pushed to Github.
+
 
 A few resources to get you started if this is your first Flutter project:
 
